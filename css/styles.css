@@ -1,0 +1,95 @@
+
+/**** Archivo de estilos ****/
+header{
+	width: 100%;
+	
+}
+header img{
+	width: 150px;
+    margin: auto;
+    display: block;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+header h1{
+	color: white;
+    background-color: #00533f;
+    margin: 0px;
+    text-align: center;
+    padding-top: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+header p{
+	background-color: #00533f;
+	color: white;
+    text-align: center;
+	font-weight: bold;
+	margin: 0px;
+    padding: 10px 0px 20px 0px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+h3{
+	color:#707277;
+	font-weight: bold;
+	text-align: center;
+	border-bottom: solid 2px #707277;
+}
+h2{
+	background-color: #00533f;
+	color:white;
+	font-weight: bold;
+	text-align: center;
+	padding: 10px 0px 10px 0px;
+	border-radius: 10px;
+}
+
+hr{
+	margin: 0px;
+    background-color: #00533f;
+    height: 4px;
+    border: none;
+}
+body{
+	width: 99%;
+}
+#radial{
+	width: 80%;
+    height: 850px;
+	margin: 30px auto 30px auto;
+    padding: 10px 100px 10px 100px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 5px #00533f;
+}
+#barras{
+	width: 80%;
+    height: 750px;
+	margin: 30px auto 30px auto;
+    padding: 10px 100px 10px 100px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 5px #00533f;
+}
+
+.colum-left{
+	width: 40%;
+	float: left;
+
+}
+.colum-right{
+	width: 40%;
+	float: right;
+}
+
+footer p{
+	font-weight: bold;
+	text-align: left;
+	margin: 5px 0px 0px 50px;
+}
+
+footer img{
+	width: 70px;
+	margin: 5px 50px 5px 0px;
+	float: right;
+}
